@@ -12,10 +12,10 @@
 </ul>
 
 ## Judul Studi Kasus
-<p>Sistem Kasir Restoran.</p>
+<p>Sistem Kasir Restoran</p>
 
 ## Penjelasan Studi Kasus
-<p>Sistem Kasir Restoran adalah aplikasi yang dirancang untuk mengelola pemesanan dan pembayaran makanan dan minuman di sebuah restoran. Aplikasi ini memungkinkan pengguna untuk membuat pesanan baru, melihat daftar pesanan, dan memproses pembayaran.
+<p>  Sistem Kasir Restoran adalah aplikasi yang dirancang untuk mengelola pemesanan dan pembayaran makanan dan minuman di sebuah restoran. Aplikasi ini memungkinkan pengguna untuk membuat pesanan baru, melihat daftar pesanan, dan memproses pembayaran.
   
 => Fitur Utama
     - Manajemen Menu (Makanan dan Minuman)
