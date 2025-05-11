@@ -108,6 +108,6 @@ Abstraksi memungkinkan pembuatan blueprint untuk kelas-kelas turunan dan menyemb
 
 ## Demo Proyek
 <ul>
-  <li>Github: <a href="">Github</a></li>
-  <li>Youtube: <a href="">Youtube</a></li>
+  <li>Github: <a href="">https://github.com/salmawafiq0/Code-Program-Kasir-Restoran.git</a></li>
+  <li>Youtube: <a href="">https://drive.google.com/drive/folders/1tegPOLxvSsJaXvXFPgk5mlZEngzHKSGy</a></li>
 </ul>
